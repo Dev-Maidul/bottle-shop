@@ -1,0 +1,11 @@
+.card{
+    padding: 20px;
+    border: 2px solid thistle;
+    border-radius: 20px;
+    margin: 10px;
+}
+.size img{
+    width: 250px;
+    text-align: center;
+    border-radius: 10px;
+}
